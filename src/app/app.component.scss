@@ -1,0 +1,17 @@
+nav{
+    font-weight: 500;
+    background-color: transparent !important;
+    color: #f1f1f1;
+    position: fixed;
+    z-index: 2;
+    width: 100%;
+}
+
+.nav-link{
+    transition: 0.3s ease;
+}
+
+.nav-link:hover{
+    color: #E5C078;
+    transition: 0.3s ease;
+}

@@ -1,0 +1,67 @@
+.video-container{
+    height: 100vh;
+    // position: relative;
+}
+
+.banner-video{
+    // position: absolute;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+.offer-banner{
+    background-color: #146C43;
+}
+
+.offer-text{
+    font-weight: 900;
+    color: #f1f1f1;
+    font-size: 3rem;
+    color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+.carousel-wrap{
+    padding-left: 350px ;
+    padding-right: 350px;
+}
+
+.carousel-card{
+    height: 40vh;
+    background-color: #202020;
+    width: 100%;
+}
+
+.carousel-card-contents{
+    height: 100%;
+}
+
+.product-img-container{
+    height: 100%;
+}
+
+.product-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.product-details{
+    color: #f1f1f1;
+}
+
+.product-title{
+    font-weight: 900;
+    color: #E5C078;
+}
+
+.page-title{
+    font-weight: 900;
+    color: #f1f1f1;
+    font-size: 3rem;
+}
